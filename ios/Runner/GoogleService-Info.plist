@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1087170229873-72u3thg8itlh4k2tg49pan2vpobkals9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1087170229873-72u3thg8itlh4k2tg49pan2vpobkals9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPjOiABtAFNKhbSYmZXWKIVB4Cu9Eb8Vs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1087170229873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.asrooShop</string>
+	<key>PROJECT_ID</key>
+	<string>asroo-shop-998ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asroo-shop-998ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1087170229873:ios:fed48a9c47a246066fcdd0</string>
+</dict>
+</plist>
